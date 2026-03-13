@@ -5,7 +5,7 @@ window.seriesOpsFaq = [
   },
   {
     question: 'What does SeriesOps do?',
-    answer: 'We design your Company OS. We suggest a Tech Stack. And we can implement and manage it too. The right stack, intelligently integrated, AI-leveraged, highly automated.'
+    answer: 'We design your Company OS. We suggest a Tech Stack. And we implement and manage it too. The right stack, intelligently integrated, AI-leveraged, highly automated. <a onclick="showPage(\'services\')" style="cursor:pointer;color:var(--accent);text-decoration:underline;">See all services here.</a>'
   },
   {
     question: 'Why SeriesOps?',
@@ -13,11 +13,11 @@ window.seriesOpsFaq = [
   },
   {
     question: 'What can life be like having retained SeriesOps?',
-    answer: 'Your Company OS is thoughtfully conceived and well-implemented. You know your metrics and KPIs and they appear on your dashboards in near-real time. Your Financial Model is comprehensive and realistic, and enables you to compare Actual vs. Forecast quickly every month. Your Board updates, almost automatically generated, are in the same format every time just the way they like it. Your 2hr board meetings are 15min updates, and the rest is tactical and strategic discussion. Your house is in order with minimal additional prep for the due diligence that you\u2019ll encounter during the next fundraise. Your startup is punching well above its weight operationally, allowing you to focus on the things that matter most: product, customers & investors. Your probability of success is maximized.'
+    answer: 'Your Company OS is thoughtfully conceived and well-implemented. You know your metrics and KPIs and they appear on your dashboards in near-real time. Your Financial Model is comprehensive and realistic, and enables you to compare Actual vs. Forecast quickly every month. Your Board updates, almost automatically generated, are in the same format every time just the way they like it. Your 2hr board meetings are 15min updates, and the rest is tactical and strategic discussion. Your house is in order with minimal additional prep for the diligence that you\u2019ll encounter during the next fundraise. Your startup is punching well above its weight operationally, allowing you to focus on the things that matter most: product, customers & investors. Your probability of success is maximized.'
   },
   {
     question: 'Can SeriesOps help hardware startups?',
-    answer: 'Hardware startups are our specialty. NPI \u2014 New Product Introduction \u2014 is a core competency. From product management through engineering, DFM/DFT, manufacturing ramp, QA/QC, fulfillment, field installation, customer support, and reverse logistics \u2014 we\u2019ve managed every step.'
+    answer: 'Hardware startups are our specialty. HW NPI \u2014 Hardware New Product Introduction \u2014 is a core competency. From product management through engineering, DFM/DFT, manufacturing ramp, QA/QC, fulfillment, field installation, customer support, and reverse logistics \u2014 we\u2019ve managed every step.'
   },
   {
     question: 'What does \u201cfractional\u201d mean?',
@@ -29,7 +29,7 @@ window.seriesOpsFaq = [
   },
   {
     question: 'What stage startups do you work with?',
-    answer: 'Primarily Seed through Series B. That\u2019s the stage where operational foundations matter most and a full-time COO may not be feasible. If you\u2019re pre-revenue building your first product, or post-revenue scaling beyond the founding team, that\u2019s the sweet spot.'
+    answer: 'Primarily Seed through Series B. That\u2019s the stage where operations could be ad hoc yet a full-time COO may not be feasible. If you\u2019re pre-revenue building your first product, or post-revenue scaling beyond the founding team, that\u2019s the sweet spot.'
   },
   {
     question: 'How quickly can you get started?',
