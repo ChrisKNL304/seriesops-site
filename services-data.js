@@ -23,18 +23,7 @@ window.seriesOpsServices = [
   },
   {
     num: "03",
-    title: "Pitch & Fundraising Support",
-    desc: "I\u2019ve been on both sides of the table \u2014 a Founder who raised money, and a VC who vetted early stage startups. This service sharpens your pitch, anticipates every investor question, and gets your data room ready for diligence.",
-    bullets: [
-      "Pitch narrative, key questions to address, and what backup slides to prepare",
-      "Critical feedback on the deck, plus financial and operational content if SeriesOps owns the role",
-      "Pitch coaching and optional co-presentation for financials, forecast, and operational topics",
-      "Data room preparation \u2014 organized, complete, and ready for institutional diligence"
-    ]
-  },
-  {
-    num: "03.5",
-    title: "Accounting System & Automation",
+    title: "Accounting System",
     desc: "Your accounting system is foundational. We install and configure your accounting software, design the Chart of Accounts, and connect your bank, payroll, A/P and A/R \u2014 so your expense policies are enforced automatically and actuals flow directly into your Financial Model, budgets, and dashboards.",
     bullets: [
       "Accounting software setup and Chart of Accounts design \u2014 the skeleton upon which budgets and financial reporting are built",
@@ -56,7 +45,7 @@ window.seriesOpsServices = [
   },
   {
     num: "05",
-    title: "KPI's & Business Intelligence",
+    title: "KPIs & Business Intelligence",
     desc: "What gets measured gets done \u2014 but only if you\u2019re measuring the right things. We design the KPI framework tied to your corporate objectives, build automated data pipelines from your operational systems, and deliver dashboards so everyone from team leads to Board members sees exactly what they need to drive decisions.",
     bullets: [
       "KPI framework \u2014 metrics tied to corporate objectives, each with an owner, a target, and a review cadence",
@@ -113,6 +102,17 @@ window.seriesOpsServices = [
   },
   {
     num: "10",
+    title: "Pitch & Fundraising Support",
+    desc: "I\u2019ve been on both sides of the table \u2014 a Founder who raised money, and a VC who vetted early stage startups. This service sharpens your pitch, anticipates every investor question, and gets your data room ready for diligence.",
+    bullets: [
+      "Pitch narrative, key questions to address, and what backup slides to prepare",
+      "Critical feedback on the deck, plus financial and operational content if SeriesOps owns the role",
+      "Pitch coaching and optional co-presentation for financials, forecast, and operational topics",
+      "Data room preparation \u2014 organized, complete, and ready for institutional diligence"
+    ]
+  },
+  {
+    num: "11",
     title: "Operations Audit",
     desc: "Every great plan starts with a clear picture of where you are today. The Operations Audit is a structured assessment of your company\u2019s operational maturity across every domain \u2014 processes, systems, people, and tools. It produces a prioritized roadmap that tells you exactly where to invest first and connects directly to the services that close each gap.",
     bullets: [
