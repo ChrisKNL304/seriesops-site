@@ -45,7 +45,7 @@ window.seriesOpsServices = [
   },
   {
     num: "05",
-    title: "KPIs & Business Intelligence",
+    title: "KPI's & Business Intelligence",
     desc: "What gets measured gets done \u2014 but only if you\u2019re measuring the right things. We design the KPI framework tied to your corporate objectives, build automated data pipelines from your operational systems, and deliver dashboards so everyone from team leads to Board members sees exactly what they need to drive decisions.",
     bullets: [
       "KPI framework \u2014 metrics tied to corporate objectives, each with an owner, a target, and a review cadence",

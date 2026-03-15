@@ -5,7 +5,7 @@ window.seriesOpsFaq = [
   },
   {
     question: 'What does SeriesOps do?',
-    answer: 'We design your Company OS. We suggest a Tech Stack. And we implement and manage it too. The right stack, intelligently integrated, AI-leveraged, highly automated. <a onclick="showPage(\'services\')" style="cursor:pointer;color:var(--accent);text-decoration:underline;">See all services here.</a>'
+    answer: 'We design your Company OS. We suggest a Tech Stack. And we implement and manage it too. The right stack, intelligently integrated, AI-leveraged, highly automated. <a onclick="showPage(\'services\')" style="cursor:pointer;color:var(--accent);text-decoration:none;">See all services here.</a>'
   },
   {
     question: 'Why SeriesOps?',
